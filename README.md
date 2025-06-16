@@ -1,12 +1,8 @@
 ## Hi, I'm Asser👋
 
 - 💫 Computer Science Student at Galala University<br/>
-
 - 🌱 I’m currently learning Field of Artificial Intelligence Science<br/>
 - 🔭 I’m currently working on LLMs and Deep Learning Projects<br/>
-- 📫 How to reach me:[Instagram](https://www.instagram.com/asermohamed111?igsh=eHdvM25hd291cTBl)
-- 😄 Follow me on my [linkedIn Account](http://www.linkedin.com/in/aser-almasry-505a821b5)
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asermohamed111) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Asser Almasry) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@aser_alex) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@aseralmasry4320) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aseralmasry429@gmail.com) 
