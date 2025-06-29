@@ -1,7 +1,7 @@
 ## Hi, I'm Asser👋
 
 - 🎉 Computer Science Student at Galala University<br/>
-- 🎨 I’m currently learning Field of Artificial Intelligence Science<br/>
+- 🎨 I’m currently studying Field of Artificial Intelligence Science<br/>
 - 💰 I’m currently working on LLMs and Deep Learning Projects<br/>
 
 ## 🌐 Socials:
