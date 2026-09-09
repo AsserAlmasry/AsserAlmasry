@@ -14,7 +14,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@aseralmasry4320)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/asermohamed111)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@aser_alex)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aseralmasry429@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=aseralmasry429@gmail.com)
 
 ---
 
@@ -66,7 +66,7 @@
     <img width="400" src="https://github-readme-stats-fast.vercel.app/api?username=AsserAlmasry&show_icons=true&theme=radical&card_width=400" alt="Asser's GitHub Stats" />
   </a>
   <a href="https://github.com/AsserAlmasry">
-    <img width="400" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AsserAlmasry&layout=compact&theme=radical&card_width=400&langs_count=10" alt="Top Languages" />
+    <img width="400" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AsserAlmasry&layout=compact&theme=radical&card_width=400&langs_count=8" alt="Top Languages" />
   </a>
 </p>
 
