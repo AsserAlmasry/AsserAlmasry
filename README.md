@@ -1,4 +1,4 @@
-## Hi, I'm Asser Almasry👋
+## Hi, I'm Asser Almasry 👋
 
 - 🎓 Artificial Intelligence Science Graduate from Galala University
 - 💼 Artificial Intelligence Engineer & Lead Researcher at VALORIZEN
@@ -63,10 +63,10 @@
 
 <p align="center">
   <a href="https://github.com/AsserAlmasry">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=AsserAlmasry&show_icons=true&theme=radical&card_width=400" alt="Asser's GitHub Stats" />
+    <img width="400" height="195" src="https://github-readme-stats-fast.vercel.app/api?username=AsserAlmasry&show_icons=true&theme=radical&card_width=400" alt="Asser's GitHub Stats" />
   </a>
   <a href="https://github.com/AsserAlmasry">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AsserAlmasry&layout=compact&theme=radical&card_width=400" alt="Top Languages" />
+    <img width="400" height="195" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AsserAlmasry&layout=compact&theme=radical&card_width=400" alt="Top Languages" />
   </a>
 </p>
 
@@ -76,4 +76,6 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=AsserAlmasry&color=blueviolet&style=for-the-badge)
+<p align="center">
+  <img width="300" src="https://komarev.com/ghpvc/?username=AsserAlmasry&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
