@@ -1,4 +1,4 @@
-## Hi, I'm Asser 👋
+## Hi, I'm Asser Almasry👋
 
 - 🎓 Artificial Intelligence Science Graduate from Galala University
 - 💼 Artificial Intelligence Engineer & Lead Researcher at VALORIZEN
@@ -63,15 +63,15 @@
 
 <p align="center">
   <a href="https://github.com/AsserAlmasry">
-    <img height="165" src="https://githubreadmestatsfast.vercel.app/api?username=AsserAlmasry&show_icons=true&theme=radical" alt="Asser's GitHub Stats" />
+    <img height="220" src="https://github-readme-stats-fast.vercel.app/api?username=AsserAlmasry&show_icons=true&theme=radical" alt="Asser's GitHub Stats" />
   </a>
   <a href="https://github.com/AsserAlmasry">
-    <img height="165" src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=AsserAlmasry&layout=compact&theme=radical" alt="Top Languages" />
+    <img height="220" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AsserAlmasry&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsserAlmasry&theme=radical" alt="GitHub Streak" />
+  <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=AsserAlmasry&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
