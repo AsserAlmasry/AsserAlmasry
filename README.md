@@ -1,4 +1,4 @@
-## Hi, I'm Asser Almasry👋
+## Hi, I'm Asser Almasry 👋
 
 - 🎓 Artificial Intelligence Science Graduate from Galala University
 - 💼 Artificial Intelligence Engineer & Lead Researcher at VALORIZEN
@@ -62,4 +62,3 @@
 - **Focus**: Artificial Intelligence Engineering, Deep Learning, and Distributed Data Systems.
 
 ---
-[<img src="https://visitcount.itsvg.in/api?id=AsserAlmasry&icon=0&color=0" />](https://visitcount.itsvg.in)
