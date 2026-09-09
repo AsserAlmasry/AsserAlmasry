@@ -61,6 +61,19 @@
 - **Profile**: [AsserAlmasry on GitHub](https://github.com/AsserAlmasry)
 - **Focus**: Artificial Intelligence Engineering, Deep Learning, and Distributed Data Systems.
 
+<p align="center">
+  <a href="https://github.com/AsserAlmasry">
+    <img height="165" src="https://githubreadmestatsfast.vercel.app/api?username=AsserAlmasry&show_icons=true&theme=radical" alt="Asser's GitHub Stats" />
+  </a>
+  <a href="https://github.com/AsserAlmasry">
+    <img height="165" src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=AsserAlmasry&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsserAlmasry&theme=radical" alt="GitHub Streak" />
+</p>
+
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AsserAlmasry&color=blueviolet&style=for-the-badge)
