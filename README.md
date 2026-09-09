@@ -63,10 +63,10 @@
 
 <p align="center">
   <a href="https://github.com/AsserAlmasry">
-    <img width="400" height="195" src="https://github-readme-stats-fast.vercel.app/api?username=AsserAlmasry&show_icons=true&theme=radical&card_width=400" alt="Asser's GitHub Stats" />
+    <img width="400" src="https://github-readme-stats-fast.vercel.app/api?username=AsserAlmasry&show_icons=true&theme=radical&card_width=400" alt="Asser's GitHub Stats" />
   </a>
   <a href="https://github.com/AsserAlmasry">
-    <img width="400" height="195" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AsserAlmasry&layout=compact&theme=radical&card_width=400" alt="Top Languages" />
+    <img width="400" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AsserAlmasry&layout=compact&theme=radical&card_width=400&langs_count=10" alt="Top Languages" />
   </a>
 </p>
 
