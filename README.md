@@ -63,19 +63,19 @@
 
 <p align="center">
   <a href="https://github.com/AsserAlmasry">
-    <img width="1000" src="https://github-readme-stats-fast.vercel.app/api?username=AsserAlmasry&show_icons=true&theme=radical&card_width=400" alt="Asser's GitHub Stats" />
+    <img width="400" src="https://github-readme-stats-fast.vercel.app/api?username=AsserAlmasry&show_icons=true&theme=radical&card_width=400" alt="Asser's GitHub Stats" />
   </a>
   <a href="https://github.com/AsserAlmasry">
-    <img width="1000" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AsserAlmasry&layout=compact&theme=radical&card_width=400&langs_count=7" alt="Top Languages" />
+    <img width="400" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AsserAlmasry&layout=compact&theme=radical&card_width=400&langs_count=7" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <img width="820" src="https://github-readme-streak-stats.herokuapp.com/?user=AsserAlmasry&theme=radical" alt="GitHub Streak" />
+  <img width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=AsserAlmasry&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 <p align="center">
-  <img height="50" src="https://visitor-badge.laobi.icu/badge?page_id=AsserAlmasry.AsserAlmasry&left_text=Profile%20Views&left_color=%23555555&right_color=%238a2be2" alt="Profile Views" />
+  <img height="300" src="https://visitor-badge.laobi.icu/badge?page_id=AsserAlmasry.AsserAlmasry&left_text=Profile%20Views&left_color=%23555555&right_color=%238a2be2" alt="Profile Views" />
 </p>
