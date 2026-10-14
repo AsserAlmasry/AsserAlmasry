@@ -77,5 +77,5 @@
 ---
 
 <p align="center">
-  <img height="600" src="https://visitor-badge.laobi.icu/badge?page_id=AsserAlmasry.AsserAlmasry&left_text=Profile%20Views&left_color=%23555555&right_color=%238a2be2" alt="Profile Views" />
+  <img width="350" src="https://visitor-badge.laobi.icu/badge?page_id=AsserAlmasry.AsserAlmasry&left_text=Profile%20Views&left_color=%23555555&right_color=%238a2be2" alt="Profile Views" />
 </p>
