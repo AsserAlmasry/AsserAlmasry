@@ -77,5 +77,5 @@
 ---
 
 <p align="center">
-  <img width="300" src="https://komarev.com/ghpvc/?username=AsserAlmasry&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img height="28" src="https://visitor-badge.laobi.icu/badge?page_id=AsserAlmasry.AsserAlmasry&left_text=Profile%20Views&left_color=%23555555&right_color=%238a2be2" alt="Profile Views" />
 </p>
